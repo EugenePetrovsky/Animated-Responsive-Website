@@ -37,6 +37,10 @@ button {
     cursor: pointer;
 }
 
+button:focus {
+    outline: none;
+}
+
 .content {
     color: #fbfcfd;
     position: absolute;
